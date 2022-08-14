@@ -1,5 +1,8 @@
 # Hi, I’m Bulat 👋👨‍💻
-`I'm a software engineer whois passionate about making contributions to open source more accessible, creating new technologies to improve people's living standards and moving the community.`
+`
+I love my life very much despite all the difficulties of life.
+I'm a software engineer whois passionate about making contributions to open source more accessible, creating new technologies to improve people's living standards and moving the community.
+`
 
 
 ## Some technologies I enjoy working with include:
