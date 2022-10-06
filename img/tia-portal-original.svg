@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="357.16534"
+   id="svg13957"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="B:\logos\Vektor\[--Convertme!--]\[--!fertig--]"
+   sodipodi:docname="TIA Logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs13959" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="274.06095"
+     inkscape:cy="224.30727"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     width="21cm"
+     height="10.08cm"
+     units="cm"
+     inkscape:window-width="776"
+     inkscape:window-height="574"
+     inkscape:window-x="233"
+     inkscape:window-y="410" />
+  <metadata
+     id="metadata13962">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.568598,-338.65438)">
+    <path
+       style="fill:#103a79;fill-rule:nonzero;stroke:none"
+       d="M 435.96788,356.29269 C 412.48692,357.46672 388.15958,359.99199 363.37413,363.94894 C 320.76052,370.81929 280.74648,381.24772 244.65538,394.29269 L 267.68663,394.29269 C 303.77772,380.81288 344.22927,370.03803 386.84288,363.16769 C 403.36652,360.51522 419.87639,358.60943 435.53038,357.26144 L 435.96788,356.29269 z M 681.21788,399.32394 C 725.57087,417.67385 755.15613,445.32133 760.37413,479.54269 C 772.98423,559.46492 651.21762,645.16338 488.15538,670.94894 C 462.0654,675.07985 436.84978,677.37817 412.49913,678.07394 C 444.67676,678.72616 479.02772,676.42105 514.24913,670.85519 C 674.26753,645.50443 794.26818,562.29341 782.09288,484.98019 C 776.00531,446.23662 737.74618,416.36936 681.21788,399.32394 z M 434.68663,400.88644 L 361.18663,648.19894 L 514.68663,438.38644 L 525.99913,400.88644 L 434.68663,400.88644 z M 556.43663,401.23019 L 365.96788,660.98019 L 367.28038,661.07394 L 457.71788,660.98019 L 509.03038,590.88644 L 584.24913,590.88644 L 577.31163,549.57394 L 539.03038,549.57394 L 576.43663,498.57394 L 609.46788,628.76144 C 641.64549,615.75993 669.48158,600.38294 692.09288,583.51144 L 639.06163,401.23019 L 556.43663,401.23019 z M 192.90538,401.57394 L 170.31163,479.35519 L 241.18663,479.35519 L 187.24913,660.98019 L 268.56163,660.98019 L 322.49913,479.35519 L 398.59288,479.35519 L 421.62413,401.57394 L 192.90538,401.57394 z M 178.12413,424.04269 C 108.5509,461.6992 68.104333,509.75894 75.061633,555.19894 C 80.714453,590.28994 114.21748,617.8668 165.09288,635.04269 C 128.56695,616.8232 105.06356,591.7758 100.28038,561.51144 C 93.757924,521.15897 121.58978,479.11199 172.03038,443.54269 L 178.12413,424.04269 z M 701.65538,615.63644 C 676.87,630.76862 647.74193,644.07268 615.99913,655.07394 L 617.31163,660.98019 L 714.71788,660.98019 L 701.65538,615.63644 z "
+       id="path5155" />
+  </g>
+</svg>
