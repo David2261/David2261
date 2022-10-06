@@ -8,9 +8,55 @@ I'm a software engineer whois passionate about making contributions to open sour
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David2261&theme=github_dark&show_icons=true)](https://github.com/David2261/github-readme-stats)
 
 > Tools, languages, and other things that I like to work with.
-| <img src="./img/python-original.svg" width="48" height="48" alt="Python" /> | <img src="./img/javascript-original.svg" width="48" height="48" alt="JS" /> | <img src="./img/c-original.svg" width="48" height="48" alt="C" /> | <img src="./img/tia-portal-original.svg" width="48" height="48" alt="TIA-Portal" /> | <img src="./img/django-original.svg" width="48" height="48" alt="Django" /> | <img src="./img/pytest-original.svg" width="48" height="48" alt="Pytest" /> | <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" /> |
-| --- | --- |
-| <img src="./img/react-original.svg" width="48" height="48" alt="React" /> | <img src="./img/vuejs-original.svg" width="48" height="48" alt="Vuejs" /> | <img src="./img/mysql-original.svg" width="48" height="48" alt="Mysql" /> | <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" /> | <img src="./img/bash-original.svg" width="48" height="48" alt="Bash" /> | <img src="./img/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /> | <img src="./img/vim-original.svg" width="48" height="48" alt="Vim" /> |
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/javascript-original.svg" width="48" height="48" alt="JS" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/c-original.svg" width="48" height="48" alt="C" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/tia-portal-original.svg" width="48" height="48" alt="TIA-Portal" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/django-original.svg" width="48" height="48" alt="Django" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/pytest-original.svg" width="48" height="48" alt="Pytest" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/vuejs-original.svg" width="48" height="48" alt="Vuejs" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/mysql-original.svg" width="48" height="48" alt="Mysql" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/bash-original.svg" width="48" height="48" alt="Bash" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+        </td>
+        <td align="center" width="96">
+            <img src="./img/vim-original.svg" width="48" height="48" alt="Vim" />
+        </td>
+    </tr>
+</table>
 
 ## Find me around the web 🌎:
 - Write me an email 📧: admiralgeneral2003@gmail.com
