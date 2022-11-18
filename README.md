@@ -6,6 +6,8 @@ I'm a software engineer whois passionate about making contributions to open sour
 
 ## Favorite Tech:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David2261&theme=github_dark&show_icons=true)](https://github.com/David2261/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David2261&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 > Tools, languages, and other things that I like to work with.
 
