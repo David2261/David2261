@@ -5,7 +5,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 `
 
 ## Favorite Tech:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David2261&theme=github_dark&show_icons=true)](https://github.com/David2261/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David2261)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David2261&layout=compact)](https://github.com/David2261/github-readme-stats)
 
 
@@ -73,3 +73,9 @@ I'm a software engineer whois passionate about making contributions to open sour
 - <a href="https://profile.indeed.com/?hl=en&co=US&from=gnav-homepage&_ga=2.4494771.1630080302.1654453469-924135153.1654453469">indeed</a>
 - <a href="https://www.linkedin.com/in/bulat-nasyrov-7705231bb">LinkedIn</a>
 
+## Support 💲
+<p><a href="https://ko-fi.com/admiralgeneral"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="admiralgeneral" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david2261&show_icons=true&locale=en&layout=compact" alt="david2261" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david2261&show_icons=true&locale=en" alt="david2261" /></p>
