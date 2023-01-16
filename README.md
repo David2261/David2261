@@ -5,7 +5,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 `
 
 ## Favorite Tech:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David2261)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David2261)](https://github.com/David2261/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David2261&layout=compact)](https://github.com/David2261/github-readme-stats)
 
 
