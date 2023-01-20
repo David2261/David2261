@@ -64,6 +64,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 ## Find me around the web 🌎:
 - Write me an email 📧: admiralgeneral2003@gmail.com
 - Cross paths with me in Telegram 📬: https://t.me/Suleiman_1
+- GitHub Gist 📓: https://gist.github.com/David2261
 
 ## My social life 🚵
 - My daily life: <a href="https://instagram.com/tq_elly">tq_elly</a>
