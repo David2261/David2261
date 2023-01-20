@@ -6,6 +6,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 
 ## Favorite Tech:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david2261&show_icons=true&locale=en" alt="david2261" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David2261&layout=compact)](https://github.com/David2261/github-readme-stats)
 
 
