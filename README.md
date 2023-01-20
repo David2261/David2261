@@ -5,7 +5,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 `
 
 ## Favorite Tech:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=David2261)](https://github.com/David2261/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david2261&show_icons=true&locale=en" alt="david2261" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David2261&layout=compact)](https://github.com/David2261/github-readme-stats)
 
 
@@ -75,7 +75,3 @@ I'm a software engineer whois passionate about making contributions to open sour
 
 ## Support 💲
 <p><a href="https://ko-fi.com/admiralgeneral"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="admiralgeneral" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david2261&show_icons=true&locale=en&layout=compact" alt="david2261" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david2261&show_icons=true&locale=en" alt="david2261" /></p>
