@@ -69,6 +69,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 ## My social life 🚵
 - My daily life: <a href="https://instagram.com/tq_elly">tq_elly</a>
 - My abilities: <a href="https://instagram.com/gt_mambogo">gt_mambogo</a>
+- My hobby <a href="https://www.twitch.tv/admiralgeneral1703">admiralgeneral1703</a>
 
 ## My portfolio 📜
 - <a href="https://bulatnasyrov.herokuapp.com">Portfolio</a>
