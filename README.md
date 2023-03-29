@@ -77,7 +77,7 @@ I'm a software engineer whois passionate about making contributions to open sour
 - <a href="https://www.linkedin.com/in/bulat-nasyrov-7705231bb">LinkedIn</a>
 
 ## Support 💲
-<p><a href="https://ko-fi.com/admiralgeneral"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="admiralgeneral" /></a></p><br><br>
 - <a href="https://new.donatepay.ru/@1097922">DonatePay</a>
 - <a href="https://boosty.to/admiralgeneral1703/donate">Boosty</a>
-<br><br>
+
+<p><a href="https://ko-fi.com/admiralgeneral"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="admiralgeneral" /></a></p><br><br>
